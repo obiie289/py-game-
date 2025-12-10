@@ -3,3 +3,7 @@
 *.js linguist-vendored
 *.c linguist-vendored
 *.PowerShell linguist-vendored
+
+# (중요) 라이브러리 폴더 등이 있다면 폴더째로 제외
+pygameyy/** linguist-vendored
+lib/** linguist-vendored
