@@ -1,0 +1,2 @@
+# py-game-
+first pygame 
